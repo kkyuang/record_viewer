@@ -1,0 +1,31 @@
+{
+    "name": "風街ろまん",
+    "artist": "はっぴいえんど",
+    "image": "cover.jpg",
+    "musics": [
+        {
+            "side": "A side",
+            "musics": [
+                {
+                    "id": "",
+                    "name": "",
+                    "composer": "",
+                    "description": "",
+                    "article": ""
+                }
+            ]
+        },
+        {
+            "side": "B side",
+            "musics": [
+                {
+                    "id": "",
+                    "name": "",
+                    "composer": "",
+                    "description": "",
+                    "article": ""
+                }
+            ]
+        }
+    ]
+}
